@@ -1,0 +1,19 @@
+{
+  "name": "professional-backend-project",
+  "version": "1.0.0",
+  "description": "a professional backend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "backend",
+    "mern-stack",
+    "api",
+    "professional-backend-project"
+  ],
+  "author": "Dipesh Paudel",
+  "license": "ISC"
+}
